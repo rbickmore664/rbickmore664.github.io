@@ -1,0 +1,218 @@
+{
+  "catalogVersion": "mock-2026-10",
+  "currency": "USD",
+  "notes": "Placeholder products, prices and HCPCS codes for demonstration only.",
+  "products": [
+    {
+      "id": "kn-acl-hinged",
+      "name": "Medicorp StrideGuard Hinged ACL Knee Brace",
+      "category": "knee",
+      "indications": ["ACL tear or deficiency", "MCL/LCL/PCL instability", "Return to sport after ligament injury"],
+      "keywords": ["acl", "torn acl", "acl tear", "ligament", "torn", "tear", "rupture", "instability", "mcl", "lcl", "pcl", "hinged", "sports", "athlete", "unstable"],
+      "specs": { "Frame": "Aluminum bilateral hinges", "Support level": "Maximum (rigid)", "ROM stops": "Extension 0/10/20 deg", "Weight": "540 g" },
+      "sizes": [
+        { "label": "S",  "fit": "Thigh 15-17 in", "heightIn": [58, 65], "weightLb": [95, 140] },
+        { "label": "M",  "fit": "Thigh 17-20 in", "heightIn": [63, 69], "weightLb": [135, 180] },
+        { "label": "L",  "fit": "Thigh 20-23 in", "heightIn": [67, 73], "weightLb": [175, 225] },
+        { "label": "XL", "fit": "Thigh 23-27 in", "heightIn": [70, 78], "weightLb": [220, 290] }
+      ],
+      "price": 389.00,
+      "hcpcs": "L1843 (example)"
+    },
+    {
+      "id": "kn-postop-rom",
+      "name": "Medicorp RangeLock Post-Op ROM Knee Brace",
+      "category": "knee",
+      "indications": ["Post-operative knee immobilization", "ACL reconstruction rehab", "Total knee replacement recovery", "Tibial plateau fracture"],
+      "keywords": ["post-op", "postop", "post op", "postoperative", "surgery", "surgical", "reconstruction", "acl reconstruction", "knee replacement", "tkr", "tka", "rom", "range of motion", "immobilize", "fracture"],
+      "specs": { "Frame": "Telescoping struts", "Support level": "Maximum (adjustable ROM)", "ROM settings": "Flexion 0-120 deg, extension -10-90 deg", "Length": "Adjustable 19-25 in" },
+      "sizes": [
+        { "label": "Universal", "fit": "Thigh 12-30 in", "heightIn": [56, 80], "weightLb": [90, 320] }
+      ],
+      "price": 249.00,
+      "hcpcs": "L1833 (example)"
+    },
+    {
+      "id": "kn-oa-unloader",
+      "name": "Medicorp OffLoad OA Unloader Knee Brace",
+      "category": "knee",
+      "indications": ["Unicompartmental knee osteoarthritis", "Medial or lateral compartment pain", "Varus/valgus deformity"],
+      "keywords": ["osteoarthritis", "oa", "arthritis", "degenerative", "unloader", "medial compartment", "lateral compartment", "varus", "valgus", "bone on bone", "chronic knee pain"],
+      "specs": { "Frame": "Single upright, carbon composite", "Support level": "High (unloading)", "Adjustment": "Dial-tension valgus/varus", "Weight": "480 g" },
+      "sizes": [
+        { "label": "S",  "fit": "Thigh 15-17 in", "heightIn": [58, 65], "weightLb": [100, 150] },
+        { "label": "M",  "fit": "Thigh 17-20 in", "heightIn": [63, 69], "weightLb": [145, 195] },
+        { "label": "L",  "fit": "Thigh 20-23 in", "heightIn": [67, 73], "weightLb": [190, 240] },
+        { "label": "XL", "fit": "Thigh 23-27 in", "heightIn": [70, 78], "weightLb": [235, 310] }
+      ],
+      "price": 529.00,
+      "hcpcs": "L1851 (example)"
+    },
+    {
+      "id": "kn-patella-sleeve",
+      "name": "Medicorp TrackFit Patellar Stabilizer Sleeve",
+      "category": "knee",
+      "indications": ["Patellofemoral pain", "Patellar tracking disorder", "Mild meniscus irritation", "Mild knee sprain"],
+      "keywords": ["patella", "patellar", "patellofemoral", "kneecap", "knee cap", "tracking", "runner's knee", "meniscus", "meniscal", "sleeve", "mild", "knee sprain", "knee pain"],
+      "specs": { "Material": "Breathable knit compression", "Support level": "Light-moderate", "Buttress": "Silicone horseshoe pad", "Closure": "Pull-on" },
+      "sizes": [
+        { "label": "S",  "fit": "Knee 12-14 in", "heightIn": [58, 65], "weightLb": [95, 140] },
+        { "label": "M",  "fit": "Knee 14-16 in", "heightIn": [63, 69], "weightLb": [135, 185] },
+        { "label": "L",  "fit": "Knee 16-18 in", "heightIn": [67, 73], "weightLb": [180, 230] },
+        { "label": "XL", "fit": "Knee 18-21 in", "heightIn": [70, 78], "weightLb": [225, 300] }
+      ],
+      "price": 59.00,
+      "hcpcs": "L1820 (example)"
+    },
+    {
+      "id": "bk-lso-lumbar",
+      "name": "Medicorp CoreHold LSO Lumbar Support",
+      "category": "back",
+      "indications": ["Lumbar strain or sprain", "Acute or chronic low back pain", "Lumbar disc herniation (conservative care)", "Sciatica"],
+      "keywords": ["lumbar", "lumbar strain", "low back", "lower back", "back pain", "strain", "lumbago", "disc", "herniated", "herniation", "bulging disc", "sciatica", "degenerative disc"],
+      "specs": { "Panel": "Removable rigid posterior panel", "Support level": "Moderate-high", "Closure": "Pulley compression system", "Height": "10 in posterior" },
+      "sizes": [
+        { "label": "S",  "fit": "Waist 26-32 in", "heightIn": [58, 66], "weightLb": [95, 145] },
+        { "label": "M",  "fit": "Waist 32-38 in", "heightIn": [62, 70], "weightLb": [140, 190] },
+        { "label": "L",  "fit": "Waist 38-44 in", "heightIn": [66, 74], "weightLb": [185, 240] },
+        { "label": "XL", "fit": "Waist 44-52 in", "heightIn": [68, 78], "weightLb": [235, 320] }
+      ],
+      "price": 179.00,
+      "hcpcs": "L0637 (example)"
+    },
+    {
+      "id": "bk-tlso-rigid",
+      "name": "Medicorp SpineShield Rigid TLSO",
+      "category": "back",
+      "indications": ["Stable thoracolumbar compression fracture", "Post-surgical spinal stabilization", "Osteoporotic vertebral fracture"],
+      "keywords": ["tlso", "thoracic", "thoracolumbar", "compression fracture", "vertebral", "fracture", "spinal fusion", "fusion", "post-op", "postoperative", "osteoporosis", "osteoporotic", "kyphosis"],
+      "specs": { "Shell": "Thermoplastic anterior/posterior", "Support level": "Maximum (rigid)", "Coverage": "T6-L5", "Liner": "Removable, washable" },
+      "sizes": [
+        { "label": "S",  "fit": "Waist 26-32 in", "heightIn": [58, 66], "weightLb": [95, 145] },
+        { "label": "M",  "fit": "Waist 32-38 in", "heightIn": [62, 70], "weightLb": [140, 195] },
+        { "label": "L",  "fit": "Waist 38-46 in", "heightIn": [66, 76], "weightLb": [190, 260] }
+      ],
+      "price": 649.00,
+      "hcpcs": "L0457 (example)"
+    },
+    {
+      "id": "bk-si-belt",
+      "name": "Medicorp PelviFit Sacroiliac Belt",
+      "category": "back",
+      "indications": ["Sacroiliac joint dysfunction", "Pelvic girdle pain", "Postpartum pelvic instability"],
+      "keywords": ["sacroiliac", "si joint", "si belt", "pelvic", "pelvis", "pelvic girdle", "postpartum", "pregnancy", "buttock pain", "hip"],
+      "specs": { "Width": "4 in", "Support level": "Moderate", "Closure": "Hook-and-loop with tension straps", "Material": "Low-profile elastic" },
+      "sizes": [
+        { "label": "S/M", "fit": "Hips 30-40 in", "heightIn": [58, 68], "weightLb": [95, 175] },
+        { "label": "L/XL", "fit": "Hips 40-52 in", "heightIn": [64, 78], "weightLb": [170, 300] }
+      ],
+      "price": 69.00,
+      "hcpcs": "L0621 (example)"
+    },
+    {
+      "id": "nk-soft-collar",
+      "name": "Medicorp ComfortLine Soft Cervical Collar",
+      "category": "neck",
+      "indications": ["Whiplash-associated disorder", "Cervical muscle strain", "Minor neck sprain"],
+      "keywords": ["whiplash", "neck strain", "neck sprain", "neck pain", "cervical strain", "soft collar", "muscle spasm", "car accident", "mva", "stiff neck"],
+      "specs": { "Material": "Medium-density foam, cotton cover", "Support level": "Light", "Height": "3 in", "Closure": "Hook-and-loop" },
+      "sizes": [
+        { "label": "S", "fit": "Neck 11-14 in", "heightIn": [56, 65], "weightLb": [90, 145] },
+        { "label": "M", "fit": "Neck 14-17 in", "heightIn": [63, 71], "weightLb": [140, 200] },
+        { "label": "L", "fit": "Neck 17-21 in", "heightIn": [68, 78], "weightLb": [195, 300] }
+      ],
+      "price": 29.00,
+      "hcpcs": "L0120 (example)"
+    },
+    {
+      "id": "nk-rigid-collar",
+      "name": "Medicorp StableNeck Rigid Cervical Collar",
+      "category": "neck",
+      "indications": ["Stable cervical fracture", "Post-operative cervical fusion", "Cervical spine stabilization"],
+      "keywords": ["cervical fracture", "fracture", "rigid collar", "cervical fusion", "acdf", "fusion", "post-op", "postoperative", "stabilization", "trauma", "c-spine", "cervical"],
+      "specs": { "Shell": "Two-piece rigid polyethylene", "Support level": "Maximum (rigid)", "Height": "Adjustable 2-4.5 in", "Access": "Tracheal opening" },
+      "sizes": [
+        { "label": "Regular", "fit": "Neck 10-18 in", "heightIn": [56, 70], "weightLb": [90, 200] },
+        { "label": "Tall",    "fit": "Neck 14-22 in", "heightIn": [68, 80], "weightLb": [160, 320] }
+      ],
+      "price": 139.00,
+      "hcpcs": "L0174 (example)"
+    },
+    {
+      "id": "wr-carpal-night",
+      "name": "Medicorp NightRest Carpal Tunnel Wrist Splint",
+      "category": "wrist",
+      "indications": ["Carpal tunnel syndrome", "Median nerve compression symptoms", "Nocturnal numbness and tingling"],
+      "keywords": ["carpal tunnel", "carpal", "cts", "median nerve", "numbness", "tingling", "night splint", "repetitive strain", "typing"],
+      "specs": { "Stay": "Removable palmar aluminum stay", "Position": "Neutral wrist", "Support level": "Moderate", "Material": "Breathable foam laminate" },
+      "sizes": [
+        { "label": "S", "fit": "Wrist 5-6 in",  "heightIn": [56, 64], "weightLb": [90, 135] },
+        { "label": "M", "fit": "Wrist 6-7 in",  "heightIn": [62, 70], "weightLb": [130, 190] },
+        { "label": "L", "fit": "Wrist 7-8.5 in", "heightIn": [68, 78], "weightLb": [185, 300] }
+      ],
+      "price": 39.00,
+      "hcpcs": "L3908 (example)"
+    },
+    {
+      "id": "wr-thumb-spica",
+      "name": "Medicorp FlexGuard Wrist Stabilizer with Thumb Spica",
+      "category": "wrist",
+      "indications": ["Wrist sprain", "De Quervain's tenosynovitis", "Thumb/CMC sprain", "Suspected scaphoid injury (until imaging)"],
+      "keywords": ["wrist sprain", "sprain", "sprained", "thumb", "spica", "de quervain", "dequervain", "tendinitis", "tendonitis", "scaphoid", "cmc", "gamekeeper", "skier's thumb"],
+      "specs": { "Stays": "Dorsal and thumb stays", "Support level": "Moderate-high", "Closure": "Three-strap", "Material": "Lightweight neoprene-free" },
+      "sizes": [
+        { "label": "S", "fit": "Wrist 5-6 in",  "heightIn": [56, 64], "weightLb": [90, 135] },
+        { "label": "M", "fit": "Wrist 6-7 in",  "heightIn": [62, 70], "weightLb": [130, 190] },
+        { "label": "L", "fit": "Wrist 7-8.5 in", "heightIn": [68, 78], "weightLb": [185, 300] }
+      ],
+      "price": 49.00,
+      "hcpcs": "L3809 (example)"
+    },
+    {
+      "id": "an-laceup",
+      "name": "Medicorp SureStep Lace-Up Ankle Brace",
+      "category": "ankle",
+      "indications": ["Lateral ankle sprain", "Chronic ankle instability", "Sport-related ankle protection"],
+      "keywords": ["ankle sprain", "sprain", "sprained", "rolled ankle", "inversion", "lateral ankle", "instability", "lace-up", "sports", "high ankle"],
+      "specs": { "Design": "Lace-up with figure-8 straps", "Support level": "Moderate", "Profile": "Fits in athletic shoe", "Material": "Ballistic nylon" },
+      "sizes": [
+        { "label": "S",  "fit": "Women's shoe 5-7", "heightIn": [56, 64], "weightLb": [90, 140] },
+        { "label": "M",  "fit": "Men's 6-8 / Women's 7-9", "heightIn": [62, 69], "weightLb": [135, 185] },
+        { "label": "L",  "fit": "Men's 8-11", "heightIn": [67, 73], "weightLb": [180, 235] },
+        { "label": "XL", "fit": "Men's 11-14", "heightIn": [71, 80], "weightLb": [230, 320] }
+      ],
+      "price": 45.00,
+      "hcpcs": "L1906 (example)"
+    },
+    {
+      "id": "an-walker-boot",
+      "name": "Medicorp TrekSafe Tall Walker Boot",
+      "category": "ankle",
+      "indications": ["Stable ankle or metatarsal fracture", "Achilles tendon rupture (functional rehab)", "Severe ankle sprain (grade III)", "Post-operative foot/ankle"],
+      "keywords": ["walker", "boot", "fracture", "broken ankle", "stress fracture", "metatarsal", "achilles", "rupture", "grade 3", "grade iii", "severe sprain", "post-op", "postoperative", "foot"],
+      "specs": { "Height": "Tall (17 in)", "Support level": "Maximum", "Liner": "Air-cell pneumatic", "Sole": "Rocker bottom" },
+      "sizes": [
+        { "label": "S", "fit": "Men's 4-7 / Women's 5-8", "heightIn": [56, 65], "weightLb": [90, 150] },
+        { "label": "M", "fit": "Men's 7-10 / Women's 8-11", "heightIn": [63, 71], "weightLb": [145, 210] },
+        { "label": "L", "fit": "Men's 10-13", "heightIn": [69, 80], "weightLb": [205, 330] }
+      ],
+      "price": 159.00,
+      "hcpcs": "L4361 (example)"
+    },
+    {
+      "id": "sh-sling",
+      "name": "Medicorp ArmRest Shoulder Immobilizer Sling",
+      "category": "shoulder",
+      "indications": ["Rotator cuff repair (post-op)", "Shoulder dislocation or subluxation", "Labral repair", "Clavicle or proximal humerus fracture"],
+      "keywords": ["shoulder", "rotator cuff", "rotator", "dislocation", "dislocated", "subluxation", "labrum", "labral", "slap", "clavicle", "humerus", "sling", "immobilizer", "post-op", "postoperative"],
+      "specs": { "Pillow": "15-degree abduction pillow", "Support level": "High", "Strap": "Padded neck strap", "Closure": "Hook-and-loop" },
+      "sizes": [
+        { "label": "S", "fit": "Forearm 11-13 in", "heightIn": [56, 64], "weightLb": [90, 140] },
+        { "label": "M", "fit": "Forearm 13-15 in", "heightIn": [62, 70], "weightLb": [135, 195] },
+        { "label": "L", "fit": "Forearm 15-18 in", "heightIn": [68, 80], "weightLb": [190, 320] }
+      ],
+      "price": 89.00,
+      "hcpcs": "L3670 (example)"
+    }
+  ]
+}
