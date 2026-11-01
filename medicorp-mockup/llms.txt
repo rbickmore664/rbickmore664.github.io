@@ -1,0 +1,30 @@
+# Medicorp Brace Finder (mock-up)
+
+> Demonstration website for "Medicorp", a placeholder orthopedic brace company. Clinicians describe a patient in one sentence (age, sex, height, weight, condition) and the site suggests a matching brace and size, then shows a mock checkout. All company details, products, prices and HCPCS codes are placeholders. Not medical advice; no real orders.
+
+## Pages
+
+- [Home and brace finder](https://rbickmore664.github.io/medicorp-mockup/): one-sentence patient description to brace match
+- [Catalog](https://rbickmore664.github.io/medicorp-mockup/#/catalog): 14 braces across knee, back, neck, wrist, ankle, shoulder
+- [How it works](https://rbickmore664.github.io/medicorp-mockup/#/how)
+- [FAQ](https://rbickmore664.github.io/medicorp-mockup/#/faq)
+- [Privacy & HIPAA](https://rbickmore664.github.io/medicorp-mockup/#/privacy): how the demo handles patient info
+- [Catalog data (JSON)](https://rbickmore664.github.io/medicorp-mockup/data/catalog.json)
+- [Full text for LLMs](https://rbickmore664.github.io/medicorp-mockup/llms-full.txt)
+
+## Products
+
+- Medicorp StrideGuard Hinged ACL Knee Brace (knee, $389.00 placeholder): ACL tear or deficiency; MCL/LCL/PCL instability
+- Medicorp RangeLock Post-Op ROM Knee Brace (knee, $249.00 placeholder): Post-operative knee immobilization; ACL reconstruction rehab
+- Medicorp OffLoad OA Unloader Knee Brace (knee, $529.00 placeholder): Unicompartmental knee osteoarthritis; Medial or lateral compartment pain
+- Medicorp TrackFit Patellar Stabilizer Sleeve (knee, $59.00 placeholder): Patellofemoral pain; Patellar tracking disorder
+- Medicorp CoreHold LSO Lumbar Support (back, $179.00 placeholder): Lumbar strain or sprain; Acute or chronic low back pain
+- Medicorp SpineShield Rigid TLSO (back, $649.00 placeholder): Stable thoracolumbar compression fracture; Post-surgical spinal stabilization
+- Medicorp PelviFit Sacroiliac Belt (back, $69.00 placeholder): Sacroiliac joint dysfunction; Pelvic girdle pain
+- Medicorp ComfortLine Soft Cervical Collar (neck, $29.00 placeholder): Whiplash-associated disorder; Cervical muscle strain
+- Medicorp StableNeck Rigid Cervical Collar (neck, $139.00 placeholder): Stable cervical fracture; Post-operative cervical fusion
+- Medicorp NightRest Carpal Tunnel Wrist Splint (wrist, $39.00 placeholder): Carpal tunnel syndrome; Median nerve compression symptoms
+- Medicorp FlexGuard Wrist Stabilizer with Thumb Spica (wrist, $49.00 placeholder): Wrist sprain; De Quervain's tenosynovitis
+- Medicorp SureStep Lace-Up Ankle Brace (ankle, $45.00 placeholder): Lateral ankle sprain; Chronic ankle instability
+- Medicorp TrekSafe Tall Walker Boot (ankle, $159.00 placeholder): Stable ankle or metatarsal fracture; Achilles tendon rupture (functional rehab)
+- Medicorp ArmRest Shoulder Immobilizer Sling (shoulder, $89.00 placeholder): Rotator cuff repair (post-op); Shoulder dislocation or subluxation
