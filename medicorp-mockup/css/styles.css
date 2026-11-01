@@ -186,3 +186,9 @@ fieldset.field { border: 0; padding: 0; margin: 0 0 14px; }
 
 /* mobile polish */
 .tag { white-space: nowrap; }
+
+/* FAQ */
+.faq-item { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 0 16px; margin: 0 0 10px; }
+.faq-item summary { cursor: pointer; padding: 14px 0; list-style-position: inside; }
+.faq-item summary h3 { display: inline; font-size: 1.05rem; margin: 0; }
+.faq-item p { margin: 0 0 14px; }

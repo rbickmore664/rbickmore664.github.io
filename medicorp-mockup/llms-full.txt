@@ -1,0 +1,183 @@
+# Medicorp Brace Finder (mock-up): full text
+
+This is a demonstration mock-up. Medicorp is a placeholder brand; products, prices, HCPCS codes and contact details are fictional. Nothing here is medical advice; the prescribing clinician is responsible for product selection.
+
+Site: https://rbickmore664.github.io/medicorp-mockup/
+
+## How it works
+
+1. Describe: type or speak one sentence with age, sex, height, weight and condition (no names or birthdates).
+2. Match: every brace is scored by body area, indications and fit, and a size is suggested.
+3. Order: pick size and side, add an internal reference, and check out (mock checkout, test card only).
+
+## Catalog
+
+### Medicorp StrideGuard Hinged ACL Knee Brace
+
+- Body area: knee
+- Placeholder price: $389.00 USD
+- Example HCPCS: L1843 (example)
+- Indications: ACL tear or deficiency; MCL/LCL/PCL instability; Return to sport after ligament injury
+- Specs: Frame: Aluminum bilateral hinges; Support level: Maximum (rigid); ROM stops: Extension 0/10/20 deg; Weight: 540 g
+- Sizes: S (Thigh 15-17 in); M (Thigh 17-20 in); L (Thigh 20-23 in); XL (Thigh 23-27 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/kn-acl-hinged
+
+### Medicorp RangeLock Post-Op ROM Knee Brace
+
+- Body area: knee
+- Placeholder price: $249.00 USD
+- Example HCPCS: L1833 (example)
+- Indications: Post-operative knee immobilization; ACL reconstruction rehab; Total knee replacement recovery; Tibial plateau fracture
+- Specs: Frame: Telescoping struts; Support level: Maximum (adjustable ROM); ROM settings: Flexion 0-120 deg, extension -10-90 deg; Length: Adjustable 19-25 in
+- Sizes: Universal (Thigh 12-30 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/kn-postop-rom
+
+### Medicorp OffLoad OA Unloader Knee Brace
+
+- Body area: knee
+- Placeholder price: $529.00 USD
+- Example HCPCS: L1851 (example)
+- Indications: Unicompartmental knee osteoarthritis; Medial or lateral compartment pain; Varus/valgus deformity
+- Specs: Frame: Single upright, carbon composite; Support level: High (unloading); Adjustment: Dial-tension valgus/varus; Weight: 480 g
+- Sizes: S (Thigh 15-17 in); M (Thigh 17-20 in); L (Thigh 20-23 in); XL (Thigh 23-27 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/kn-oa-unloader
+
+### Medicorp TrackFit Patellar Stabilizer Sleeve
+
+- Body area: knee
+- Placeholder price: $59.00 USD
+- Example HCPCS: L1820 (example)
+- Indications: Patellofemoral pain; Patellar tracking disorder; Mild meniscus irritation; Mild knee sprain
+- Specs: Material: Breathable knit compression; Support level: Light-moderate; Buttress: Silicone horseshoe pad; Closure: Pull-on
+- Sizes: S (Knee 12-14 in); M (Knee 14-16 in); L (Knee 16-18 in); XL (Knee 18-21 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/kn-patella-sleeve
+
+### Medicorp CoreHold LSO Lumbar Support
+
+- Body area: back
+- Placeholder price: $179.00 USD
+- Example HCPCS: L0637 (example)
+- Indications: Lumbar strain or sprain; Acute or chronic low back pain; Lumbar disc herniation (conservative care); Sciatica
+- Specs: Panel: Removable rigid posterior panel; Support level: Moderate-high; Closure: Pulley compression system; Height: 10 in posterior
+- Sizes: S (Waist 26-32 in); M (Waist 32-38 in); L (Waist 38-44 in); XL (Waist 44-52 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/bk-lso-lumbar
+
+### Medicorp SpineShield Rigid TLSO
+
+- Body area: back
+- Placeholder price: $649.00 USD
+- Example HCPCS: L0457 (example)
+- Indications: Stable thoracolumbar compression fracture; Post-surgical spinal stabilization; Osteoporotic vertebral fracture
+- Specs: Shell: Thermoplastic anterior/posterior; Support level: Maximum (rigid); Coverage: T6-L5; Liner: Removable, washable
+- Sizes: S (Waist 26-32 in); M (Waist 32-38 in); L (Waist 38-46 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/bk-tlso-rigid
+
+### Medicorp PelviFit Sacroiliac Belt
+
+- Body area: back
+- Placeholder price: $69.00 USD
+- Example HCPCS: L0621 (example)
+- Indications: Sacroiliac joint dysfunction; Pelvic girdle pain; Postpartum pelvic instability
+- Specs: Width: 4 in; Support level: Moderate; Closure: Hook-and-loop with tension straps; Material: Low-profile elastic
+- Sizes: S/M (Hips 30-40 in); L/XL (Hips 40-52 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/bk-si-belt
+
+### Medicorp ComfortLine Soft Cervical Collar
+
+- Body area: neck
+- Placeholder price: $29.00 USD
+- Example HCPCS: L0120 (example)
+- Indications: Whiplash-associated disorder; Cervical muscle strain; Minor neck sprain
+- Specs: Material: Medium-density foam, cotton cover; Support level: Light; Height: 3 in; Closure: Hook-and-loop
+- Sizes: S (Neck 11-14 in); M (Neck 14-17 in); L (Neck 17-21 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/nk-soft-collar
+
+### Medicorp StableNeck Rigid Cervical Collar
+
+- Body area: neck
+- Placeholder price: $139.00 USD
+- Example HCPCS: L0174 (example)
+- Indications: Stable cervical fracture; Post-operative cervical fusion; Cervical spine stabilization
+- Specs: Shell: Two-piece rigid polyethylene; Support level: Maximum (rigid); Height: Adjustable 2-4.5 in; Access: Tracheal opening
+- Sizes: Regular (Neck 10-18 in); Tall (Neck 14-22 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/nk-rigid-collar
+
+### Medicorp NightRest Carpal Tunnel Wrist Splint
+
+- Body area: wrist
+- Placeholder price: $39.00 USD
+- Example HCPCS: L3908 (example)
+- Indications: Carpal tunnel syndrome; Median nerve compression symptoms; Nocturnal numbness and tingling
+- Specs: Stay: Removable palmar aluminum stay; Position: Neutral wrist; Support level: Moderate; Material: Breathable foam laminate
+- Sizes: S (Wrist 5-6 in); M (Wrist 6-7 in); L (Wrist 7-8.5 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/wr-carpal-night
+
+### Medicorp FlexGuard Wrist Stabilizer with Thumb Spica
+
+- Body area: wrist
+- Placeholder price: $49.00 USD
+- Example HCPCS: L3809 (example)
+- Indications: Wrist sprain; De Quervain's tenosynovitis; Thumb/CMC sprain; Suspected scaphoid injury (until imaging)
+- Specs: Stays: Dorsal and thumb stays; Support level: Moderate-high; Closure: Three-strap; Material: Lightweight neoprene-free
+- Sizes: S (Wrist 5-6 in); M (Wrist 6-7 in); L (Wrist 7-8.5 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/wr-thumb-spica
+
+### Medicorp SureStep Lace-Up Ankle Brace
+
+- Body area: ankle
+- Placeholder price: $45.00 USD
+- Example HCPCS: L1906 (example)
+- Indications: Lateral ankle sprain; Chronic ankle instability; Sport-related ankle protection
+- Specs: Design: Lace-up with figure-8 straps; Support level: Moderate; Profile: Fits in athletic shoe; Material: Ballistic nylon
+- Sizes: S (Women's shoe 5-7); M (Men's 6-8 / Women's 7-9); L (Men's 8-11); XL (Men's 11-14)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/an-laceup
+
+### Medicorp TrekSafe Tall Walker Boot
+
+- Body area: ankle
+- Placeholder price: $159.00 USD
+- Example HCPCS: L4361 (example)
+- Indications: Stable ankle or metatarsal fracture; Achilles tendon rupture (functional rehab); Severe ankle sprain (grade III); Post-operative foot/ankle
+- Specs: Height: Tall (17 in); Support level: Maximum; Liner: Air-cell pneumatic; Sole: Rocker bottom
+- Sizes: S (Men's 4-7 / Women's 5-8); M (Men's 7-10 / Women's 8-11); L (Men's 10-13)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/an-walker-boot
+
+### Medicorp ArmRest Shoulder Immobilizer Sling
+
+- Body area: shoulder
+- Placeholder price: $89.00 USD
+- Example HCPCS: L3670 (example)
+- Indications: Rotator cuff repair (post-op); Shoulder dislocation or subluxation; Labral repair; Clavicle or proximal humerus fracture
+- Specs: Pillow: 15-degree abduction pillow; Support level: High; Strap: Padded neck strap; Closure: Hook-and-loop
+- Sizes: S (Forearm 11-13 in); M (Forearm 13-15 in); L (Forearm 15-18 in)
+- Link: https://rbickmore664.github.io/medicorp-mockup/#/product/sh-sling
+
+## FAQ (illustrative mock-up content)
+
+### Who is Medicorp for?
+
+Medicorp (a placeholder brand in this mock-up) is designed for physicians, physical therapists and clinic staff who need to choose and order orthopedic braces for patients. It is not a consumer diagnosis tool.
+
+### How does the brace finder work?
+
+You describe the patient in one sentence (age, sex, height, weight and condition). The finder matches the description to braces in the catalog by body area and listed indications, then suggests a size from the manufacturer-style sizing chart. The prescribing clinician makes the final choice.
+
+### How is brace fitting and sizing handled?
+
+Each product lists sizes with fit ranges (for example thigh circumference) plus height and weight guidance. The suggested size is a starting point; clinicians should confirm fit with a measurement and fitting at the point of care.
+
+### Can braces be paid for with insurance, HSA or FSA?
+
+Illustrative answer: many prescribed orthopedic braces may be eligible for insurance reimbursement or HSA/FSA payment depending on the plan and documentation. HCPCS codes shown in this mock-up are examples only; check coverage with the payer.
+
+### What is the return policy?
+
+Illustrative answer: unused braces in original packaging could be returned within 30 days; custom-fitted or used items may not be returnable. This mock-up does not process real returns.
+
+### How fast is shipping?
+
+Illustrative answer: in-stock items would ship within 1 to 2 business days, with expedited options for clinics. No real orders are shipped from this mock-up.
+
+### Is this a real store?
+
+No. This is a demonstration mock-up. The company name, products, prices, HCPCS codes and contact details are placeholders, and checkout uses a test card only. Nothing here is medical advice.

@@ -386,7 +386,7 @@
     if (h === '#/privacy') { showView('privacy'); mark('privacy'); window.scrollTo(0, 0); return; }
     showView('home');
     renderResults();
-    if (h === '#/how' || h === '#/contact') {
+    if (h === '#/how' || h === '#/contact' || h === '#/faq') {
       mark(h.slice(2));
       var t = document.getElementById(h.slice(2));
       if (t) setTimeout(function () { t.scrollIntoView({ behavior: 'smooth' }); }, 0);
